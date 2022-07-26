@@ -24,6 +24,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 
-<!--
+
+![Gráfico porcentajes web corporativo](https://user-images.githubusercontent.com/110055279/181096737-3ad4db5b-fa2d-4d67-99d7-dee562610838.jpg)
 
 
