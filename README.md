@@ -1,6 +1,6 @@
-### Hi, I'm Aina 👋
+### Hi 👋
 
-![Peach Welcome Email Header](https://user-images.githubusercontent.com/110055279/181090766-2f79646f-0b94-4b87-a466-8ca54f4b9920.png) 
+![Encabezado de Google Classroom Verde Pastel Escritura Creativa Banner](https://user-images.githubusercontent.com/110055279/181188001-03af187f-9fec-4233-8fca-eda745beb80d.png)
 
 <h3> 👨🏻•💻 About Me </h3>
 
