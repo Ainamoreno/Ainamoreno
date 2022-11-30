@@ -3,7 +3,6 @@
 ![Encabezado de Google Classroom Verde Pastel Escritura Creativa Banner](https://user-images.githubusercontent.com/110055279/181188001-03af187f-9fec-4233-8fca-eda745beb80d.png)
 
 
-<h3>💻 I'm currently learning</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
